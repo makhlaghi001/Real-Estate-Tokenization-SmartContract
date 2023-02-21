@@ -129,5 +129,46 @@ Streamlit
 <br>
 <br>
 
+## Streamlit View 
+
+<br>
+<br>
+
+![AssetRegisterationST](https://user-images.githubusercontent.com/110802707/220248830-62f5e66c-61a0-4319-b307-8a9ff94d75e9.png)
+
+<br>
+<br>
+
+![TransactionHash](https://user-images.githubusercontent.com/110802707/220248988-7900a047-7b4c-4f2d-9591-5dde68bb7b7e.png)
+
+<br>
+<br>
+
+![Crowdsale DeploymentTokenManagementST](https://user-images.githubusercontent.com/110802707/220248874-58c57e7c-2fab-4ffc-b41c-4b109254cd05.png)
+
+<br>
+<br>
+
+![InvestorRegisteration](https://user-images.githubusercontent.com/110802707/220248886-b89fccad-1317-4da0-b103-55f54ab1172c.png)
+
+<br>
+<br>
+
+![sidbar page selection ](https://user-images.githubusercontent.com/110802707/220248899-08b9db20-5114-4bed-b086-05df58198003.png)
+
+<br>
+<br>
+
+![streamlit main page](https://user-images.githubusercontent.com/110802707/220248911-7340fec7-33dc-494e-9f3e-e19765e39aa0.png)
+
+<br>
+<br>
+
+
+
+
+
+
+
 ## Conclusion
 While the smart contract executes as expected there is need to build detailed products there is the choice of marketing the contract as a private label to be used by specific real estate companies or on the other hand we will explore the options or researching the real estate market and coming up with assets that will be a perfect fit for launching the real estate tokenization project 
