@@ -1,4 +1,4 @@
-# Project-3--Real-Estate-Tokenization-SmartContract
+# Real-Estate-Tokenization-SmartContract
 ![](Images/Slide1.jpeg)
 <br>
 <br>
